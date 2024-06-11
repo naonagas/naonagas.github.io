@@ -21,13 +21,13 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_naoyanagasaka.jpg"
+  avatar           : "profile.png"
   name             : "Naoya Nagasaka"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Student in Economics, Indiana University"
   location         : "Bloomington, IN, US"
   employer         : "Indiana University"
-  uri              : "https://naonagas.github.io/"
+  uri              : #"https://naonagas.github.io/"
   email            : "naonagas@iu.edu" 
 
   # Academic websites
