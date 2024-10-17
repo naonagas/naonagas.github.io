@@ -16,6 +16,8 @@ Working Papers
 
     > Microeconometric approaches to answer macroeconomic questions regularly use time fixed effects. This leads to the well-known ‘missing intercept’ problem because fixed effects soak up average aggregate effects. As such, these results cannot be used to directly address policy questions requiring knowledge of policies’ aggregate effects. We present a statistical approach that leverages knowledge of these microeconometric results to jointly identify aggregate and idiosyncratic effects of changes in policy. We then apply our methodology to study government spending multipliers (Nakamura and Steinsson, 2014). <br>
 
+<!--
 Work in Progress
 ======
 - From Emergency to Normalcy: When Does Emergency Fiscal Policy Return to Normal? (with Yoosoon Chang and Gee Hee Hong)
+-->
