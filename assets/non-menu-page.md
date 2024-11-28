@@ -1,3 +1,4 @@
+<!--
 ---
 permalink: /non-menu-page/
 title: "Page not in menu"
@@ -14,3 +15,4 @@ Heading 1
 
 Heading 2
 ======
+-->
