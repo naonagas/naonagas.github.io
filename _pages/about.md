@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my webpage! I am a Ph.D. student in Economics at Indiana University.
+Welcome to my webpage! I am a postdoctoral fellow at Bank of Japan. I earned a Ph.D. in economics from Indiana University Bloomington.
 
 I am interested in macroeconomics and econometrics, with a particular focus on methodological and empirical investigations of nonlinearity and cross-sectional heterogeneity in the macroeconomy.
 
