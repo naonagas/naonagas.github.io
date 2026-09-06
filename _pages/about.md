@@ -13,4 +13,4 @@ I am interested in macroeconomics and econometrics, with a particular focus on m
 
 [Curriculum Vitae](https://naonagas.github.io/files/cv_naoyanagasaka.pdf)
 
-[日本語プロフィール](https://naonagas.github.io/japanese/)
+[Japanese Profile（日本語プロフィール）](https://naonagas.github.io/japanese/)
